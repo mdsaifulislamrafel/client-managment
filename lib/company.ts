@@ -1,5 +1,5 @@
 // ⚙️ কোম্পানির তথ্য — এখানে বদলালে সব প্রিন্টে বদলে যাবে
-// লোগো: public/logo.png ফাইলটি রিপ্লেস করুন
+// লোগো: public/logo.jpg ফাইলটি রিপ্লেস করুন
 export const COMPANY = {
   name: "Amio Uddokta",
   tagline: "Creative & Business Solutions",
@@ -7,7 +7,7 @@ export const COMPANY = {
   website: "www.amiouddokta.com",
   email: "",
   address: "",
-  logo: "/logo.png",
+  logo: "/logo.jpg",
 };
 
 export const TERMS = [
